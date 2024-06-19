@@ -4,8 +4,6 @@
 # # Building an SVM in simply extracted graph features
 # ## Features extracted are : average user follower, average user followings, density of the graph 
 
-# In[104]:
-
 
 import pandas as pd
 import numpy as np
