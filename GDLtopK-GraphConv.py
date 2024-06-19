@@ -3,8 +3,6 @@
 
 # ## GDL Currently working
 
-# In[4]:
-
 
 import torch
 from torch_geometric.data import Data
